@@ -1,2 +1,3 @@
 # hello-world
 Starting...
+Hello. I'm just starting out on this journey
